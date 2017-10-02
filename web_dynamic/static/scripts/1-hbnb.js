@@ -24,6 +24,8 @@ $(function () {
     }
     $('.amenities h4').text(text.join(', '));
     text = [];
-    console.log(clicked);
+    if (clicked.length === 0) {
+      $('.amenities h4').html('&nbsp;');
+    }
   });
 });
