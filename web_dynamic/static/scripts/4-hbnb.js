@@ -22,6 +22,9 @@ $(function () {
     }
     $('.amenities h4').text(text.join(', '));
     text = [];
+    if (clicked.length === 0) {
+      $('.amenities h4').html('&nbsp;');
+    }
   });
   $(':button').on('click', function () {
     let amenities = {'amenities': clicked};
