@@ -1,5 +1,3 @@
-<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
-
 # AirBnB Clone: Phase # 4
 
 : Web dynamic
@@ -45,8 +43,6 @@ HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_test_db HBNB_TYPE_STORAGE=db \
   * __python:__ PEP 8 (v. 1.7.0)
   * __web static:__ [W3C Validator](https://validator.w3.org/)
   * __bash:__ ShellCheck 0.3.3
-
-<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/hbnb_step5.png" />
 
 ## Configuration Files
 
@@ -212,12 +208,8 @@ github repo
 
 ## Authors
 
-* MJ Johnson, [@mj31508](https://github.com/mj31508)
-* David John Coleman II, [davidjohncoleman.com](http://www.davidjohncoleman.com/) | [@djohncoleman](https://twitter.com/djohncoleman)
-* Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
-* Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
-* Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
-* Katya Kalache, [katyakalache](https://github.com/katyakalache) [@katyakalache](https://twitter.com/KatyaKalache)
+* Kanyanta Musonda, kanyantamusonda72@gmail.com
+* Bashir Olatunji Olayinka, 
 ## License
 
 MIT License
